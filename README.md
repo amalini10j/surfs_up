@@ -19,11 +19,11 @@ The following points can be deduced from the two datasets:
 
 **June weather statistics**
 
-![June](/Resources/June Temp Stats.png)
+![June](Resources/June Temp Stats.png)
 
 **December weather statistics**
 
-![December](/Resources/Dec Temp Stats.png)
+![December](Resources/Dec Temp Stats.png)
 
 ## Summary
 
